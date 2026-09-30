@@ -80,7 +80,7 @@ export default function Navbar() {
             <Linkedin className="w-4 h-4" />
           </a>
           <a
-            href="https://drive.google.com/file/d/1uA_YoHpgxa595EacWZorThFDOFX4MMlI/view?usp=sharing"
+            href="https://drive.google.com/https://drive.google.com/file/d/1uA_YoHpgxa595EacWZorThFDOFX4MMlI/view?usp=sharing/d/1uA_YoHpgxa595EacWZorThFDOFX4MMlI/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-zinc-900 hover:bg-zinc-800 border border-zinc-700/80 hover:border-emerald-500/40 text-sm font-medium text-zinc-100 transition-all shadow-sm group"
