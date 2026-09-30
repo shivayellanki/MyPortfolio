@@ -42,10 +42,10 @@ export default function TechStack() {
       items: ['JavaScript', 'Python'],
     },
     {
-      title: 'Tools / Cloud',
+      title: 'Tools',
       icon: Cloud,
       color: 'text-teal-400',
-      items: ['Git', 'GitHub', 'Postman', 'AWS S3'],
+      items: ['Git', 'GitHub', 'Postman'],
     },
     {
       title: 'Core Fundamentals',

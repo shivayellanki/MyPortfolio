@@ -34,7 +34,7 @@ export default function ArchitectureVisual() {
       color: 'from-emerald-500/20 to-green-500/10',
       border: 'border-emerald-500/40',
       badge: 'Node.js Runtime',
-      details: 'Anomaly detection triggers, Groq AI inference orchestration, AWS S3 upload signing & auth pipeline.',
+      details: 'Anomaly detection triggers, Groq AI inference orchestration, JWT auth pipeline & business logic.',
     },
     {
       id: 'db',
